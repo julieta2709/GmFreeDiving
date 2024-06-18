@@ -1,0 +1,43 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+/*fuentes*/
+@font-face {
+  font-family: "Pacifico-Regular";
+  src: url(../src/assets/Fonts/Pacifico-Regular.ttf);
+}
+
+@font-face {
+  font-family: "NunitoSans_10pt-ExtraLight";
+  src: url(../src/assets/Fonts/NunitoSans_10pt-ExtraLight.ttf);
+}
+@font-face {
+  font-family: "NunitoSans_10pt-Expanded-ExtraLight";
+  src: url(../src/assets/Fonts/NunitoSans_10pt-Expanded-ExtraLight.ttf);
+}
+@font-face {
+  font-family: "NunitoSans_7pt-BoldItalic";
+  src: url(../src/assets/Fonts/NunitoSans_7pt-BoldItalic.ttf);
+}
+@font-face {
+  font-family: "NunitoSans_7pt_Condensed-Light";
+  src: url(../src/assets/Fonts/NunitoSans_10pt-ExtraLight.ttf);
+}
+@font-face {
+  font-family: "NunitoSans_7pt_Condensed-ExtraLightItalic";
+  src: url(../src/assets/Fonts/NunitoSans_7pt_Condensed-ExtraLightItalic.ttf);
+}
+@font-face {
+  font-family: "NunitoSans_7pt_Condensed-ExtraLight";
+  src: url(../src/assets/Fonts/NunitoSans_7pt_Condensed-ExtraLight.ttf);
+}
+
+.app-container {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

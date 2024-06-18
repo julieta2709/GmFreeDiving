@@ -1,0 +1,12 @@
+.footer-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    background-image: url("../assets/Img/fondoMar.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    height: 20vh;
+}
