@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <div className="footer-container">
       <h3>Seguinos en nuestras redes!</h3>
-      <FaInstagram />
+      <FaInstagram className="ig-icon"/>
     </div>
   );
 };

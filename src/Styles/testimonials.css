@@ -1,0 +1,10 @@
+.testimonials-container {
+    background: linear-gradient(
+        to bottom,
+        #195B80,
+        #427AA1,
+        #659BC4,
+        #88BDE8,
+        #ACE1FF
+    );
+}

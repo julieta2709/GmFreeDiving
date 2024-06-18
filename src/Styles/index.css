@@ -7,6 +7,11 @@
 *::before {
   box-sizing: border-box;
 }
+#root {
+  width: 100%;
+  margin: 0;
+  text-align: center;
+} 
 body {
   margin: 0;
   display: flex;
@@ -15,11 +20,16 @@ body {
   min-height: 100vh;
   color: rgba(255, 255, 255, 0.87);
   background: linear-gradient(
-    to bottom,
+    to bottom left,
     #031527,
     #021f3e,
     #074c73,
     #03345b,
-    #05334d
+    #05334d,
+    #195B80,
+    #427AA1,
+    #659BC4,
+    #88BDE8,
+    #ACE1FF
   );
 }

@@ -22,6 +22,7 @@ function App() {
           <Route path={"/"} element={<Contact />} />
           <Route path={"/"} element={<Testimonials />} />
         </Routes>
+        <Testimonials />
         <Footer />
         <WhatsappButton />
       </div>

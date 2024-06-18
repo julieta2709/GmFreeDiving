@@ -1,6 +1,11 @@
 import React from "react";
+import "../Styles/testimonials.css";
 
 const Testimonials = () => {
-  return <h2>TESTIMONIALS</h2>;
+  return (
+    <div className="testimonials-container">
+      <h2>TESTIMONIALS</h2>
+    </div>
+  );
 };
 export default Testimonials;
