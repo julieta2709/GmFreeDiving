@@ -28,6 +28,10 @@
   font-family: "NunitoSans_7pt_Condensed-ExtraLight";
   src: url(../src/assets/Fonts/NunitoSans_7pt_Condensed-ExtraLight.ttf);
 }
+@font-face {
+  font-family: "BowlbyOneSC-Regular";
+  src: url(../src/assets/Fonts/BowlbyOneSC-Regular.ttf);
+}
 
 .app-container {
   width: 100%;

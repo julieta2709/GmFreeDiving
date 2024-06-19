@@ -7,6 +7,7 @@ const Header = () => {
     <div className="header-container">
       <NavBar />
       <h1>GM Freediving</h1>
+      <h2>Descubre el mundo submarino</h2>
     </div>
   );
 };
